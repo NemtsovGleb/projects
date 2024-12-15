@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CallableAndFuture/CallableAndFuture.iml" filepath="$PROJECT_DIR$/CallableAndFuture/CallableAndFuture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountDownLatch/CountDownLatch.iml" filepath="$PROJECT_DIR$/CountDownLatch/CountDownLatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeadLock/DeadLock.iml" filepath="$PROJECT_DIR$/DeadLock/DeadLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introductions/Introductions.iml" filepath="$PROJECT_DIR$/Introductions/Introductions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ItteruptedException/ItteruptedException.iml" filepath="$PROJECT_DIR$/ItteruptedException/ItteruptedException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Multithreading.iml" filepath="$PROJECT_DIR$/.idea/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProducerConsumer/ProducerConsumer.iml" filepath="$PROJECT_DIR$/ProducerConsumer/ProducerConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProducerConsumer2/ProducerConsumer2.iml" filepath="$PROJECT_DIR$/ProducerConsumer2/ProducerConsumer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReentrantLock/ReentrantLock.iml" filepath="$PROJECT_DIR$/ReentrantLock/ReentrantLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaphore/Semaphore.iml" filepath="$PROJECT_DIR$/Semaphore/Semaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Synchronized/Synchronized.iml" filepath="$PROJECT_DIR$/Synchronized/Synchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Synchronizied2/Synchronizied2.iml" filepath="$PROJECT_DIR$/Synchronizied2/Synchronizied2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/THREEEEEADPooooool/THREEEEEADPooooool.iml" filepath="$PROJECT_DIR$/THREEEEEADPooooool/THREEEEEADPooooool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Voaltile/Voaltile.iml" filepath="$PROJECT_DIR$/Voaltile/Voaltile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WaitAndNotify/WaitAndNotify.iml" filepath="$PROJECT_DIR$/WaitAndNotify/WaitAndNotify.iml" />
+    </modules>
+  </component>
+</project>
